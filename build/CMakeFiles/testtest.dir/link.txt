@@ -1,0 +1,1 @@
+/usr/bin/c++    -g -Wall -O2 -g -DNDEBUG   CMakeFiles/testtest.dir/src/main.cpp.o  -o ../bin/testtest -rdynamic 

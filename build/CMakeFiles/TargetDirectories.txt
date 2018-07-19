@@ -1,0 +1,7 @@
+/home/andz8891/workspace/testtest/build/CMakeFiles/install.dir
+/home/andz8891/workspace/testtest/build/CMakeFiles/list_install_components.dir
+/home/andz8891/workspace/testtest/build/CMakeFiles/rebuild_cache.dir
+/home/andz8891/workspace/testtest/build/CMakeFiles/testtest.dir
+/home/andz8891/workspace/testtest/build/CMakeFiles/edit_cache.dir
+/home/andz8891/workspace/testtest/build/CMakeFiles/install/strip.dir
+/home/andz8891/workspace/testtest/build/CMakeFiles/install/local.dir

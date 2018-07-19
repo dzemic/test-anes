@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andz8891/workspace/testtest/src/common/Dir.hpp
+string
+-
+vector
+-
+
+/home/andz8891/workspace/testtest/src/common/hello_world.use.hpp
+
+/home/andz8891/workspace/testtest/src/main.cpp
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+iostream
+-
+string
+-
+vector
+-
+common/Dir.hpp
+/home/andz8891/workspace/testtest/src/common/Dir.hpp
+common/hello_world.use.hpp
+/home/andz8891/workspace/testtest/src/common/hello_world.use.hpp
+
