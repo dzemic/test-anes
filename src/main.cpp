@@ -23,7 +23,7 @@ const char usage[] = {
     #include "common/hello_world.use.hpp"
 };
 
-void show_all (int n){
+void show_all(int n){
 	//vector <string> f = get_files("/home/andz8891"); //core dump
 	vector <string> f = get_files(".");
 	for (int counter = 1; counter <=n; ++counter){
@@ -36,12 +36,6 @@ void show_all (int n){
 }
 
 int main(int argc, char *argv[]) {
-
-
-
-
-
-
 
 	printf("%s\n", usage);
 	int i = 0;
