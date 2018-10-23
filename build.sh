@@ -1,7 +1,7 @@
 #!/bin/bash
 
-export TOOLCHAINHEAD="/home/andz8891/hdd/perforce/andz8891_ESO7999_Integration_toolchains/qnx660_mmx2p"
-export CMAKEHEAD="/home/andz8891/hdd/perforce/andz8891_ESO7999_Integration_toolchains/cmake-2.8.8"
+export TOOLCHAINHEAD="/home/toolchain"
+export CMAKEHEAD="/home/anes/cmake-2.8.8"
 
 
 export QNX_HOST=${TOOLCHAINHEAD}/host/linux/x86
